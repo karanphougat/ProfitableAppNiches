@@ -10,6 +10,8 @@ As a data analyst, my job will be enable my team of developers to make data-driv
 
 Our goal for this project is to analyze data to help our developers understand what kinds of apps are likely to attract more users.
 
+Disclaimer - This project is a result of my data science learning efforts on the platform, Dataquest.io
+
 # Goals
 
 - Clean app stores' sample dataset.
